@@ -1,0 +1,6 @@
+2 - 
+a) O erro acontece em tempo de execução pois a variável cliA ainda não foi inicializada. Isto é, ela foi declarada na linha 10, mas é somente inicializada (aponta para um endereço de memória) na linha 12.
+
+b) Na linha 12 é criado um novo objeto na memória principal do computador, do tipo Cliente. O endereço de memória desse objeto é então armazenado na variável cliA.
+
+c) O programa imprime "Este não é um cliente especial".

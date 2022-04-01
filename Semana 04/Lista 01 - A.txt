@@ -1,0 +1,18 @@
+Análise e Desenvolvimento de Sistemas
+Programação Orientada a Objetos
+Docente: Edwar Saliba Júnior
+Discente: Fabrício Henrique da Silva
+
+1 -
+Resultado – calc01 = 3717
+Resultado – calc02 = 1242
+Resultado – calc03 = -1220
+Resultado – calc04 = -2446
+Resultado – calc05 = 1247
+
+2 -
+Resultado – calc01 = 3708
+Resultado – calc02 = 2446
+Resultado – calc03 = -518
+Resultado – calc04 = 618
+Resultado – calc05 = 2644
